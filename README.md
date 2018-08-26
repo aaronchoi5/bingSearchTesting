@@ -1,1 +1,1 @@
-This can be used to login to a microsoft account and test out searching capabilities. You will need to add 2 additional files containing the login info and a list of search terms respectively in the parent directory.
+This can be used to login to a microsoft account and test out their searching capabilities. You will need to add 2 additional files containing the login info and a list of search terms named userinfo.txt and searchlist.txt respectively in the parent directory.
